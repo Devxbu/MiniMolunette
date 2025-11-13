@@ -1,6 +1,6 @@
 # MiniMolunette - C Project Tester
 
-MiniMolunette is a command-line tool designed to test C programming exercises, for piscine projects. It automates the process of compiling and testing your C code against expected outputs.
+MiniMolunette is a command-line tool designed to test C programming exercises, for piscine projects. It automates the process of compiling and testing your C code against expected outputs. (Currently, only the first project is operational, but other projects will be added soon.)
 
 ## Features
 
