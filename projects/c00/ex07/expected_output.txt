@@ -1,0 +1,5 @@
+Print a positive number: 42
+Print a negative number: -42
+Print zero: 0
+Print the max value of int: 2147483647
+Print the min value of int: -2147483648

@@ -1,0 +1,10 @@
+9
+ft_putchar.c
+ft_print_alphabet.c
+ft_print_reverse_alphabet.c
+ft_print_numbers.c
+ft_is_negative.c
+ft_print_comb.c
+ft_print_comb2.c
+ft_putnbr.c
+ft_print_combn.c
